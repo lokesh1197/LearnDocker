@@ -1,3 +1,13 @@
+## To Create an app in Express
+
+  - Create a package.json by running
+  ```
+  npm init
+  ```
+  - Create a package-lock.json and enable express by running
+  ```
+  npm install express --save
+  ```
 ## Dockerization [Steps in the app directory]
 
   - Create a `Dockerfile` and enter the steps to be performed while creating the docker image
